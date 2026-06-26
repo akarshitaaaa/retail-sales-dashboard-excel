@@ -49,11 +49,14 @@ This project simulates a real-world retail analytics scenario. The goal was to p
 
 > **Main Dashboard**
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](<img width="1600" height="662" alt="WhatsApp Image 2026-06-26 at 1 55 53 AM (1)" src="https://github.com/user-attachments/assets/7fcd696d-e05f-470d-803f-569a633969c6" />
+)
 
 > **Excel Functions Worksheet**
 
-![Excel Functions](Excel%20Functions.png)
+![Excel Functions](<img width="1600" height="648" alt="WhatsApp Image 2026-06-26 at 1 55 52 AM" src="https://github.com/user-attachments/assets/ee1256b3-bfe8-46a5-89c8-3083feab40ab" />
+<img width="1092" height="531" alt="WhatsApp Image 2026-06-26 at 1 55 53 AM" src="https://github.com/user-attachments/assets/a10a7841-5f27-4623-97b6-89eb3c1136b1" />
+)
 
 ---
 
